@@ -4,7 +4,7 @@ import OrderTotal from "./components/OrderTotal"
 import TipPercentageForm from "./components/TipPercentageForm"
 import { menuItems } from "./data/db"
 import useOrder from "./hooks/useOrder"
-import logo from "/src/assets/logo2.png"
+import logo from "/images/logo.png"
 
 function App() {
 
